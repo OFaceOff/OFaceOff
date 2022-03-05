@@ -9,7 +9,6 @@
 - ✍️ &nbsp; I'm looking to collaborate with the community.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<img width="25%" align="right" alt="Dog Gif" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -28,17 +27,7 @@
 
 <br/>
 
-<h3> ⚙️  GitHub Analytics </h3>
-  
-<a href="https://github.com/OFaceOff">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=OFaceOff&theme=react&show_icons=true" style"max-width: 100%;" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFaceOff&theme=react&layout=compact" style"max-width: 100%;" />
-  <img height="300em" src="https://metrics.lecoq.io/OFaceOff" alt="Github Metrics" style"max-width: 100%;>
-</a>
-
-<br/>
-
-<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3> -->
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!-- <p align="center"> -->
 <a href="https://www.instagram.com/ofaceoff/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ofaceoff-blue?style=flat-square&logo=instagram"></a>
